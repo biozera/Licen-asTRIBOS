@@ -2,26 +2,17 @@
   "licenses": [
     {
       "account": "- BIOHAZARD -",
-      "worlds": [
-        "BR135",
-        "BR137"
-      ],
+      "worlds": ["BR135", "BR137"],
       "exp": "2025-11-30T23:59:59Z"
     },
     {
       "account": "Rei das Mutambas",
-      "worlds": [
-        "BR135",
-        "BR138"
-      ],
+      "worlds": ["BR135", "BR138"],
       "exp": "2025-11-30T23:59:59Z"
-    }
+    },
     {
       "account": "- Líder Inativo -",
-      "worlds": [
-        "BR135",
-        "BR138"
-      ],
+      "worlds": ["BR135", "BR138"],
       "exp": "2025-11-30T23:59:59Z"
     }
   ]

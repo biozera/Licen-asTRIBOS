@@ -10,6 +10,11 @@
       "worlds": ["BR135", "BR138"],
       "exp": "2025-11-30T23:59:59Z"
     },
+       {
+      "account": "Lista de bloqueados",
+      "worlds": ["BR135", "BR138"],
+      "exp": "2025-11-30T23:59:59Z"
+    },
     {
       "account": "- Líder Inativo -",
       "worlds": ["BR135", "BR138"],
